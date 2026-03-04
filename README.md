@@ -21,4 +21,4 @@
 4. Запусти на симуляторе или устройстве
 
 ## Скриншоты
-![0D417548-7AF0-448E-94BF-237FA8919A5D_4_5005_c](https://github.com/user-attachments/assets/b64542ab-27a9-4370-ab95-38fef9f16641)
+![0D417548-7AF0-448E-94BF-237FA8919A5D_1_201_a](https://github.com/user-attachments/assets/51675ee6-a1cb-4ce0-ae2d-5c87a02d02b0)
